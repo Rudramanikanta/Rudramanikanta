@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rudra manikanta</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudramanikanta&label=Profile%20views&color=0e75b6&style=flat" alt="rudramanikanta" /> </p>
 
-- 🔭 I’m currently working on **advance java**
+- 🔭 I’m currently working on java full stack
 
 - 🌱 I’m currently learning **reactjs,adv java**
 
-- 🤝 I’m looking for help with **Api development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rudramanikanta/profile-templateflip](https://github.com/Rudramanikanta/profile-templateflip)
+- 👨‍💻 portfolio [https://protfolio-3d-rudra.vercel.app/](https://protfolio-3d-rudra.vercel.app/)
 
 - 💬 Ask me about **reactjs,java**
 
-- 📫 How to reach me **rudramanikanta02@gmail.com**
+- 📫 How to reach me [https://www.linkedin.com/in/rudramanikanta/](https://www.linkedin.com/in/rudramanikanta/)
 
-- ⚡ Fun fact **don't except too much**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
